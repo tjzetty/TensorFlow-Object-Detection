@@ -1,0 +1,4 @@
+Vehicle 458 385 484 408
+Vehicle 0 400 86 468
+Vehicle 266 386 330 423
+Walker 808 383 872 494

@@ -1,0 +1,6 @@
+Vehicle 451 391 478 411
+Vehicle 572 408 763 515
+Vehicle 503 383 534 410
+Vehicle 783 397 900 428
+Vehicle 0 389 6 456
+Walker 663 392 679 413

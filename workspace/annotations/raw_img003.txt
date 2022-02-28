@@ -1,0 +1,5 @@
+Vehicle 454 386 481 410
+Vehicle 421 388 441 398
+Vehicle 385 385 412 404
+Vehicle 0 397 130 452
+Walker 204 387 216 405
